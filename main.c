@@ -25,5 +25,5 @@ int main() {
     }
 
     allegro_exit();
-    return 0;
+    return 0; // jaime pas mathias car il a une petite gueule 
 }
