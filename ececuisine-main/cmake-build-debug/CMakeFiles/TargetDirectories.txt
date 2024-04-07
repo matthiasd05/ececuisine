@@ -1,0 +1,3 @@
+C:/Users/abder/CLionProjects/ececuisine-main/cmake-build-debug/CMakeFiles/ececook.dir
+C:/Users/abder/CLionProjects/ececuisine-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abder/CLionProjects/ececuisine-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
